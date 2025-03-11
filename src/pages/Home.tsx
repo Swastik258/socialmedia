@@ -10,7 +10,7 @@ export function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-4xl lg:text-5xl font-bold mb-6">
-               TWITTER, Facebook and Instgram management 
+               TWITTER & Instgram management 
               </h1>
               <p className="text-xl mb-8 text-blue-100">
                 Schedule, manage, and analyze your social media posts across all platforms from one dashboard.
